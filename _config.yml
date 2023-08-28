@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mojovation Consulting
-email: neil@mojovation.co.uk
-author: Neil Studd
-description: Helping you to succeed, grow and flourish within an agile world. 🌍
+title: Gopz Consulting
+email: rcollins@gopzconsulting.com
+author: Ryan Collins
+description: A no frills technical consulting company
 baseurl: "" # the subpath of your site, e.g. /blog
 logo: /assets/img/logo-transparent.png
-url: "https://mojovation.co.uk"
-contact_cta: >- 
-  ✉️ To learn more about how Mojovation Consulting can help you and your team to flourish, 
-  read about <a href="/services">our service packages</a> or complete <a href="/contact">our contact form</a>.
-twitter_username: neilstudd
-github_username:  neilstudd
+url: "https://gopzconsulting.com"
+  # contact_cta: >- 
+  #✉️ To learn more about how Mojovation Consulting can help you and your team to flourish, 
+  #read about <a href="/services">our service packages</a> or complete <a href="/contact">our contact form</a>.
+twitter_username: gopz
+github_username:  gopz
 
 # Pagination settings
 paginate: 20 # Number of posts per page

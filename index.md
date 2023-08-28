@@ -1,20 +1,11 @@
 ---
 layout: home
-title: Welcome to Mojovation Consulting
+title: Welcome to Gopz Consulting
 ---
 
-# Because it's all about people.
+# The impediment garbage disposal
 
-![Anchorman - jumping](/assets/img/anchorman.gif)
-
-Here at **Mojovation Consulting**, we want to help agile software development teams to grow by nurturing their most valuable assets: their employees. As both teams and individuals, our needs and desires are often sidelined in favour of meeting project goals, achieving OKRs or keeping metrics happy. We're here to show you that all of those things are achievable, whilst also allowing people to showcase their authentic selves.
-
-We offer **agile coaching**, **career advice** and **project consultancy** services to both individuals and organisations. Whether you're starting the first steps of your career, or you're a veteran who's stuck in a rut - we'd love to talk to you about how we can recapture that mojo together. 🚀
-
-> ### Let's start a conversation!  
-> * [Learn more about our organisation.](/about)
-> * [Learn more about the service packages we provide.](/services) 
-> * [Contact us for a free consultation.](/contact)
+Whetheryou have a project in the works that needs additional support or a vision translated into brass tax, Gopz Consulting can help. Founder, Ryan Collins, has spent the past decade on the front lines of a rapidly changing tech landscape, solutioning everything from low level, niche services to high level process architecture. He has engineered products that work for companies that know how to use them, including the world’s largest telemedicine provider, Teladoc Health. For any problem there are many roads to resolution. Together we’ll choose the road that works for you and ultimately improves your bottom line.
 
 ## Latest blog posts
 
