@@ -9,10 +9,10 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
-	<link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
 
@@ -31,7 +31,11 @@
       {% endif %}
 
       <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+			<ul class="downloads">
+        <li><a href="/services">View our <strong>Testimonials</strong></a></li>
+        <li><a href="/about">Find out <strong>About Us</strong></a></li>
+        <li><a href="/contact">Get in <strong>Contact</strong></a></li>
+      </ul>
     </header>
     <section>
     {{ content }}
