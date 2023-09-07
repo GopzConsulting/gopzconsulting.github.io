@@ -7,7 +7,7 @@ permalink: /about/
 ## Ryan Collins
 
 
-<img src="/assets/img/avatar.jpg"  style="float: right; border-radius: 50%; padding-left: 4pt;"/>
+<img src="/assets/img/avatar.png"  style="float: right; border-radius: 50%; padding-left: 4pt;"/>
 
 Founder, Ryan Collins, spent the past decade on the front lines of a rapidly changing tech landscape. 
 

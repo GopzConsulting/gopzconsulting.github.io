@@ -30,7 +30,7 @@ The key to pipeline health is procedure adherence and the key to procedure adher
 
 I promise there is more subtlety to it than that and as proof I offer you the hallmark of any nuanced insight: a graph.
 
-| ![a graph illustrating incentive breakdowns](/assets/img/process_chart.png/) |
+| ![a graph illustrating incentive breakdowns](/assets/img/process_chart.png) |
 |:--:|
 | <sub>Red means an unhealthy pipeline owing to negligence of procedure, green means a healthy pipeline</sub> |
 
