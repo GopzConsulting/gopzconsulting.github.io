@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 logo: /assets/img/logo-transparent.png
 url: "https://gopzconsulting.com"
 contact_cta: >- 
-  To get in touch with us with please send an email to <a href="mailto:hello@gopzconsulting.com">hello@gopzconsulting.com</a> and someone will get back to you within one working day or sooner.
+  To get in touch with us please send an email to <a href="mailto:hello@gopzconsulting.com">hello@gopzconsulting.com</a> and someone will get back to you within one working day or sooner.
 
 twitter_username: gopz
 github_username:  gopz
