@@ -9,7 +9,7 @@ permalink: /about/
 
 <img src="/assets/img/avatar.jpg"  style="float: right; border-radius: 50%; padding-left: 4pt;"/>
 
-Founder, Ryan Collins, has spent the past decade on the front lines of a rapidly changing tech landscape. 
+Founder, Ryan Collins, spent the past decade on the front lines of a rapidly changing tech landscape. 
 
 As a senior manager at the world’s largest telemedicine company, Teladoc Health, he developed a knack for quickly understanding requirements and translating them into revenue drivers. Many of the more delicate operations currently powering Teladoc were implemented by his teams, including phone conferencing.
 

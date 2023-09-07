@@ -16,7 +16,7 @@ It started as an idea from a preeminent whistleblower law firm looking to drasti
 ![image of app in app store](/assets/img/rrt-apple-store.png){: .small-white}
 ![image of app in play store](/assets/img/rrt-play-store.png){: .small-white}
 
-As experienced experts in the field, we were able to quickly take high level requirements and synthesize them into simple but powerful features. We ensured that both apps are robust, fault tolerant, efficient and most importantly secure.
+As experienced experts in the field, we were able to quickly take high level requirements and synthesize them into simple but powerful features. We ensured that both apps are robust, fault tolerant, efficient, and most importantly secure.
 
 If you’d like to see a more detailed demo of the app, please feel free to get in touch!
 
