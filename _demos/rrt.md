@@ -13,8 +13,8 @@ Gopz Consulting was tasked with developing an easy-to-use, reliable, reporting m
 
 It started as an idea from a renowned whistleblower law firm looking to drastically improve their ability to help clients. Gathering images and audio testimony at the scene of a workplace accident is crucial in establishing the foundations of a lawsuit. We worked with the client to create Android and iOS apps that give workers the ability to file real time reports with the details of a workplace accident.
 
-![image of app in app store](/assets/img/apple.png){: .small-white}
-![image of app in play store](/assets/img/android.png){: .small-white}
+![image of app in app store](/assets/img/rrt-apple-store.png){: .small-white}
+![image of app in play store](/assets/img/rrt-play-store.png){: .small-white}
 
 As experienced experts in the field, we were able to quickly take high level requirements and synthesize them into simple but powerful features. We ensured that both apps are robust, fault tolerant, efficient and most importantly secure.
 
