@@ -7,8 +7,9 @@ permalink: /about/
 ## Ryan Collins
 
 
-<img src="/assets/img/avatar.jpg"  style="float: right; border-radius: 50%; padding-left: 4pt;"/>Graduating 
-Founder, Ryan Collins, has spent the past decade on the front lines of a rapidly changing tech landscape. As a senior manager at the world’s largest telemedicine provider he developed a knack for managing remote teams and implementing process architecture around deploy pipelines. At heart though, Ryan still finds joy in seeing solutions that are close to the metal, applying knowledge garnered from Boston University’s award winning Comp. Sci. program from which he graduated with honors.
+<img src="/assets/img/avatar.jpg"  style="float: right; border-radius: 50%; padding-left: 4pt;"/>
+
+Founder, Ryan Collins, has spent the past decade on the front lines of a rapidly changing tech landscape. As a senior manager at the world’s largest telemedicine company, Teladoc Health, he developed a knack for managing remote teams and implementing process architecture around deploy pipelines. At heart though, Ryan still finds joy in seeing solutions that are close to the metal, applying knowledge garnered from Boston University’s award winning Comp. Sci. program from which he graduated with honors.
 
 Gopz Consulting Group was formed in early 2023 between Ryan and a small group of close collaborators. Since it's inception the group has provided clients with affordable solutions for a wide variety of use cases.  
 

@@ -11,11 +11,13 @@ Most people working in technology are familiar with the great and unifying deplo
 ## Water, water, everywhere but not a drop to drink
 
 One of the beautiful things about software development is that for every popular technology there exists some framework to ensure that technology is being used responsibly. Sophisticated, object oriented, programming languages? Use robust unit testing frameworks. Tools to make interfaces accessible? Axe and others certify that your apps are easy to use by everyone. Microservices with competing APIs? You can use tools like Pact to test the contracts. I call these guardrail frameworks as their primary function is to ensure the responsible use of the corresponding technologies. For now we will focus on them as a case study in process management, but semi-automated processes like content translation and localization can suffer from the same issues that I will be describing.
+
 Like anything, the deploy pipeline has high tolerance for misuse, whether by ignorance or negligence, the smaller and and more isolated that it is. This tends to create a false sense of security, amongst engineers in particular, that as long as the guardrail frameworks are in place, there is nothing left to worry about. Alas, the pipeline can never be maintained in a vacuum and its eventual hundreds of users will amplify any tiny mistakes into an untenable Pandora's box of errors. Surrounded by a myriad of solutions, you may still feel like the deploy pipeline fails to provide any confidence around releases.
 
 ## Walls and Nets
 
 Ultimately what will determine the success of a deploy pipeline is how its users interact with the various established guardrail frameworks that help define it. If people using the deploy pipeline are incentivized to respect the guardrails, then they will view those guardrails as a net that catches them in case they fall. Made a breaking API change by accident? No sweat, Pact is going to tell you about it. Important legal text is unreadable by someone who's colorblind? Axe has your back. On the other hand, if the people using the pipeline are okay with API errors and accessibility flaws, then they will tend to see the guardrails only as a wall that is blocking them from what they want.
+
 Should you find yourself in a situation where a substantial portion of pipeline users see the guardrails as a wall rather than a net, the guardrails will become burdensome and enter into a negative feedback loop. Once inside this loop, pipeline users will begin to hate the guardrails and try their best to circumvent them. This will of course result in additional cruft in the pipeline and cause additional dissatisfaction and so on. It's obviously better to avoid this situation before it becomes a downward spiral, but there are ways to break out.
 
 ## Incentives
@@ -39,7 +41,7 @@ The basic constituents here related to pipeline health are cost of following pro
 
 I hope that you are reading this article, shaking your head, and thinking to yourself "I didn't even know people had this problem!". It's never any fun to be in a situation where the fruits of modern software development become the monster under the bed. However, should you find yourself in a situation where your deploy pipeline is sophisticated, but failing to protect releases, it will help to think about whether the people interacting with it see it as a wall or a net.
 
-> **_Key takeaways_** 📝  
-> * The usage the correct "guardrail frameworks" does not a deploy pipeline make
-> * Pipeline users may see the guardrails as "walls" and ignore
+> **_Key takeaways_** 
+> * The usage of the correct "guardrail frameworks" does not a deploy pipeline make
+> * Pipeline users may see the guardrails as "walls" and ignore them
 > * Healthy pipelines have users that see the various checks as "nets" that will catch mistakes

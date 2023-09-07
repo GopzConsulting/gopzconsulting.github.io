@@ -38,6 +38,11 @@ paginate_path: "/blog/page:num/"
 feed:
   posts_limit: 20
 
+collections:
+  demos:
+    output: true  
+    
+
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
